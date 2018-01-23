@@ -19,7 +19,7 @@
 <fieldset>
 
 <!-- Form Name -->
-<legend>Feedback Form</legend>
+<legend>Feedback</legend>
 
 <!-- Text input-->
 <div class="form-group">
@@ -44,7 +44,7 @@
 
 <!-- Textarea -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="textarea">Feebback</label>
+  <label class="col-md-4 control-label" for="textarea">Feebback Area</label>
   <div class="col-md-4">                     
     <textarea class="form-control" id="fb" name="fb"></textarea>
   </div>
