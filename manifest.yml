@@ -1,0 +1,8 @@
+applications:
+- path: ./WebContent
+  memory: 256M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: 31appname
+  host: 31appname
+  disk_quota: 1024M

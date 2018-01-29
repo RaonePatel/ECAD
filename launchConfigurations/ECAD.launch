@@ -1,0 +1,20 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.au-syd.bluemix.net",
+      "Org": "pawrawal@in.ibm.com",
+      "Space": "GanpatUniversity"
+    },
+    "Name": "31ECAD",
+    "Instrumentation": {
+      "host": "31ecadhost",
+      "services": [
+        "Khush-cleardb",
+        "31AlertNotification"
+      ]
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
